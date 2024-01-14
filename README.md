@@ -26,6 +26,9 @@ Details of selected item.
 ### Forgot Password
 Reset password using email.
 
+### Form Validation
+Only valid email and password works.
+
 ## Known Issues
 Performance can be improved.
 

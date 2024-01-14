@@ -29,8 +29,11 @@ Reset password using email.
 ### Form Validation
 Only valid email and password works.
 
-## Known Issues
+### Known Issues
 Performance can be improved.
+
+## Video Demo
+[Demo](https://drive.google.com/file/d/1hS_suWPy7TXbQwpMy1ofPHwaSEjoNDII/view?usp=drive_link)
 
 ## References
 Logo for the app from [PNGWing](https://www.pngwing.com/en/free-png-nuldz).</br>

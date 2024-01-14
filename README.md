@@ -30,7 +30,8 @@ Reset password using email.
 Only valid email and password works.
 
 ### Known Issues
-Performance can be improved.
+Performance can be improved.</br>
+Sign in with Google only works on Android, as I do not have access to a Mac workstation, I could not implement it.
 
 ## Video Demo
 [Demo](https://drive.google.com/file/d/1hS_suWPy7TXbQwpMy1ofPHwaSEjoNDII/view?usp=drive_link)

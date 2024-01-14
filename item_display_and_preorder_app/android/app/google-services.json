@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583681373827",
+    "project_id": "item-display-and-preorder-app",
+    "storage_bucket": "item-display-and-preorder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583681373827:android:58b0baeff82b789fcacdb6",
+        "android_client_info": {
+          "package_name": "com.example.item_display_and_preorder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI-2Ff9m2moBa7mU8FZWHpSYFRoXvF6rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
